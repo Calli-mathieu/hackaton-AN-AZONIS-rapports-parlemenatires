@@ -62,7 +62,7 @@ Cochez les ressources utilisées en remplaçant `[ ]` par `[x]`.
 - [Présentation Azonis (PDF)](docs/presentation-azonis.pdf)
 
 ### URL de démonstration
-https://azonis.fr
+
 
 ### Diapositives de présentation
 [Diapositives de présentation](docs/presentation-azonis.pdf)
