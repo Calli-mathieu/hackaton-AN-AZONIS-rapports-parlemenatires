@@ -56,7 +56,7 @@ Cochez les ressources utilisées en remplaçant `[ ]` par `[x]`.
 - [ ] `legiwatch-serveur-mcp-parlement` — Serveur MCP Parlement ✺ LegiWatch
 
 ### Galerie
-- [Image 1](images/image-1.png)
+- [Logo Azonis](images/cover.png)
 
 ### Documents
 - [Présentation Azonis (PDF)](docs/presentation-azonis.pdf)
